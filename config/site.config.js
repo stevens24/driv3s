@@ -11,7 +11,7 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: '/icons/852052-final.jpg',
+  icon: '/icons/852252-final.png',
 
   // The name of your website. Present alongside your icon.
   title: "yui's drive",
@@ -28,9 +28,9 @@ module.exports = {
   // googleFontSans - the sans serif font used in onedrive-cf-index-ng.
   googleFontSans: 'Roboto',
   // googleFontMono - the monospace font used in onedrive-cf-index-ng.
-  googleFontMono: 'Roboto Mono',
+  googleFontMono: 'Fira Mono',
   // googleFontLinks -  an array of links for referencing the google font assets.
-  googleFontLinks: ['https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@400;500;700&display=swap'],
+  googleFontLinks: ['https://fonts.googleapis.com/css2?family=Fira+Mono&family=Roboto:wght@400;500;700&display=swap'],
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
