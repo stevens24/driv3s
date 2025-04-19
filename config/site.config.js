@@ -42,7 +42,6 @@ module.exports = {
   {
   "protectedRoutes": ["/FILES/BACKUP", "/FILES/SUS"]
 }
-  ,
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:lycopene24@gmail.com',
